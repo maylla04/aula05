@@ -23,7 +23,7 @@ module.exports = {
         allowNull:false,
         unique:true
     } 
-    })
+   })
   },
 
   async down(queryInterface, Sequelize) {
